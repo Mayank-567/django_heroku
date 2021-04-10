@@ -23,8 +23,8 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = 'r%%i7@l&$5$#^u0rjh@gue!2&y#tzh4#su2u($*fdx4)y@m+)&'
 # SECRET_KEY = os.environ.get('SECRET_KEY')
-EMAIL_HOST_USER = os.environ.get('mayank.agrawal@zeza.tech')
-EMAIL_HOST_PASSWORD = os.environ.get('Mayank@098')
+# EMAIL_HOST_USER = os.environ.get('mayank.agrawal@zeza.tech')
+# EMAIL_HOST_PASSWORD = os.environ.get('Mayank@098')
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
